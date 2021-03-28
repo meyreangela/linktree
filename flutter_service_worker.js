@@ -74,8 +74,8 @@ const RESOURCES = {
 "fonts/BerkshireSwash-Regular.ttf": "dc7bceaa5cca20023e332a65fc9aa2a1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "3fdc51424d38a72bfa5dba7b03683274",
-"/": "3fdc51424d38a72bfa5dba7b03683274",
+"index.html": "1a8f324068a608135b9fb3bd00773dab",
+"/": "1a8f324068a608135b9fb3bd00773dab",
 "main.dart.js": "971ded9c51dbd396f39d402874eb2812",
 "manifest.json": "485e76cd0cfe509ee6d1bc9dc7be1a8c",
 "version.json": "f8b0582c029f7a500a1746b7f1471a1f"
